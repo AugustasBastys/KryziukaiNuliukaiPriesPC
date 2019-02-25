@@ -6,7 +6,6 @@
 #include <iostream>
 #include <windows.h>
 #include <MMSystem.h>
-#include <unistd.h>
 #include <cstdlib>
 #include <ctime>
 #include <stdlib.h>
@@ -102,8 +101,6 @@ else{
 
 int main()
 {
-
-ofstream rez("dd.txt");
 
 int l, l1;
 
