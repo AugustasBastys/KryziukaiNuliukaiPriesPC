@@ -1,3 +1,8 @@
+//naudojau aplinką Code::Blocks
+//naudojau aplinką Code::Blocks
+//naudojau aplinką Code::Blocks
+//naudojau aplinką Code::Blocks
+
 #include <iostream>
 #include <windows.h>
 #include <MMSystem.h>
