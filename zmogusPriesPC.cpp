@@ -112,14 +112,11 @@ void side() {
 
 }
 
-<<<<<<< HEAD
 
-=======
 int main()
 {
 
 int l, l1;
->>>>>>> 7a4d600b364184349d3d46af8d47250b5e15d445
 
 
 int main()
