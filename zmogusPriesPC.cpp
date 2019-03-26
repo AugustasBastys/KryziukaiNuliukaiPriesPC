@@ -119,9 +119,6 @@ int main()
 int l, l1;
 
 
-int main()
-{
-
 	while (true)
 	{
 
